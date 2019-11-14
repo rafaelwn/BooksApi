@@ -22,3 +22,14 @@
 /home/rafael/repo/net-core/mongo/BooksApi/obj/Debug/netcoreapp3.0/BooksApi.csproj.CopyComplete
 /home/rafael/repo/net-core/mongo/BooksApi/obj/Debug/netcoreapp3.0/BooksApi.dll
 /home/rafael/repo/net-core/mongo/BooksApi/obj/Debug/netcoreapp3.0/BooksApi.pdb
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rafael/repo/net-core/mongo/BooksApi/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rafael/repo/net-core/mongo/BooksApi/obj/Debug/netcoreapp3.0/BooksApi.MvcApplicationPartsAssemblyInfo.cs
